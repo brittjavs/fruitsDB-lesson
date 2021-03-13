@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/brittjavs/fruitsProject#readme",
   "dependencies": {
-    "mongodb": "^3.6.4"
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.12.0"
   }
 }
